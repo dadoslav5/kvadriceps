@@ -1,0 +1,15 @@
+C:\Users\daniel.vajc\source\repos\kvadriceps\kvadriceps\bin\Debug\net6.0\kvadriceps.exe
+C:\Users\daniel.vajc\source\repos\kvadriceps\kvadriceps\bin\Debug\net6.0\kvadriceps.deps.json
+C:\Users\daniel.vajc\source\repos\kvadriceps\kvadriceps\bin\Debug\net6.0\kvadriceps.runtimeconfig.json
+C:\Users\daniel.vajc\source\repos\kvadriceps\kvadriceps\bin\Debug\net6.0\kvadriceps.dll
+C:\Users\daniel.vajc\source\repos\kvadriceps\kvadriceps\bin\Debug\net6.0\kvadriceps.pdb
+C:\Users\daniel.vajc\source\repos\kvadriceps\kvadriceps\obj\Debug\net6.0\kvadriceps.csproj.AssemblyReference.cache
+C:\Users\daniel.vajc\source\repos\kvadriceps\kvadriceps\obj\Debug\net6.0\kvadriceps.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\daniel.vajc\source\repos\kvadriceps\kvadriceps\obj\Debug\net6.0\kvadriceps.AssemblyInfoInputs.cache
+C:\Users\daniel.vajc\source\repos\kvadriceps\kvadriceps\obj\Debug\net6.0\kvadriceps.AssemblyInfo.cs
+C:\Users\daniel.vajc\source\repos\kvadriceps\kvadriceps\obj\Debug\net6.0\kvadriceps.csproj.CoreCompileInputs.cache
+C:\Users\daniel.vajc\source\repos\kvadriceps\kvadriceps\obj\Debug\net6.0\kvadriceps.dll
+C:\Users\daniel.vajc\source\repos\kvadriceps\kvadriceps\obj\Debug\net6.0\refint\kvadriceps.dll
+C:\Users\daniel.vajc\source\repos\kvadriceps\kvadriceps\obj\Debug\net6.0\kvadriceps.pdb
+C:\Users\daniel.vajc\source\repos\kvadriceps\kvadriceps\obj\Debug\net6.0\kvadriceps.genruntimeconfig.cache
+C:\Users\daniel.vajc\source\repos\kvadriceps\kvadriceps\obj\Debug\net6.0\ref\kvadriceps.dll
